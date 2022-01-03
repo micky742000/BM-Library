@@ -1,4 +1,4 @@
-import 'package:book_library/src/models/notifiers/theme_notifier.dart';
+import 'package:book_library/src/theme/theme_notifier.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
